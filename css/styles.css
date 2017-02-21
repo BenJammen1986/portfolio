@@ -1,0 +1,15 @@
+
+.betterfont {
+  font-size: 60px;
+  text-align: center !important;
+  font-style: italic !important;
+  font-family: cursive !important;
+}
+
+.jumbotron {
+  background-image: url(../img/meandwife1.jpg);
+  background-size: cover;
+  background-position: 50% 20%;
+  min-height: 400px;
+  max-width: 1200px;
+}
