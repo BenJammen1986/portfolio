@@ -7,7 +7,7 @@
 
 _This project incorporates everything we learned during our first week at Epicodus.
 HTML and CSS styling: cascading, using floats and box model, practice inputting images,
-hyperlinks, etc._ 
+hyperlinks, proper nesting/formating, etc._ 
 
 
 
