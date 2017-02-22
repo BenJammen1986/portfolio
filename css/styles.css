@@ -1,9 +1,15 @@
 
-.betterfont {
-  font-size: 60px;
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+}
+
+#betterfont {
   text-align: center !important;
   font-style: italic !important;
   font-family: cursive !important;
+  font-family: myFirstFont !important;
 }
 
 .jumbotron {
@@ -12,4 +18,8 @@
   background-position: 50% 20%;
   min-height: 400px;
   max-width: 1200px;
+}
+
+.red, #red {
+  color: #b1214d;
 }
