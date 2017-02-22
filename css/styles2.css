@@ -1,0 +1,41 @@
+h1, #pageheader {
+  text-align: center;
+  font-size: 70px;
+  font-style: italic;
+  font-family: fantasy;
+  font-weight: bold;
+}
+
+#family1 {
+  float: left;
+  width: 300px;
+  margin: 20px;
+  border-radius: 6px;
+  padding: 2px;
+  background-color: black;
+  height: auto;
+}
+
+#frisbeeGolf {
+  float: right;
+  width: 300px;
+  margin: 20px;
+  border-radius: 6px;
+  padding: 2px;
+  background-color: black;
+  height: auto;
+}
+
+ul, ol {
+  overflow: hidden;
+}
+
+#me1 {
+  float: left;
+  width: 300px;
+  margin: 20px;
+  border-radius: 6px;
+  padding: 2px;
+  background-color: black;
+  height: auto;
+}
