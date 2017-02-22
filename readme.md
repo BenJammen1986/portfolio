@@ -7,7 +7,7 @@
 
 _This project incorporates everything we learned during our first week at Epicodus.
 HTML and CSS styling: cascading, using floats and box model, practice inputting images,
-hyperlinks, proper nesting/formating, etc._ 
+hyperlinks, proper nesting/formating, etc._
 
 
 
@@ -18,7 +18,14 @@ _To access through Github pages:
 
 You are welcome to clone this code. You'll need:
 * A Github account
-* Gitbash_
+* Gitbash
+
+**Instructions for cloning:**
+1. Set up your Github account (create name, password)
+2. Download Gitbash
+3. Use Gitbash terminal to type: "git clone https://github.com/BenJammen1986/portfolio.git"
+The folder should appear on your desktop with all files!
+
 
 ## Known Bugs
 
